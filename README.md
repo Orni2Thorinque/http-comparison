@@ -1,7 +1,7 @@
 # http-comparison
 
 ## Install
-### npm install
+### - npm install
 
 ## Run
 ### Go to https://localhost:4000/asssets/index.html and click on "RUN"
